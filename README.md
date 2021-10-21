@@ -1,6 +1,6 @@
 # hackintosh-gigabyte-b450-aorus-elite
  <h3>OpenCore EFI GIGABYTE B450 Aorus Elite v1.0 & R5 2600X & RX580</h3>
- Following EFI build was created using <a href="https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#starting-point">this guide</a> and won't be updated anymore due to a corrupted motherboard.
+ Following EFI build was created using <a href="https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#starting-point">this guide</a> and won't be updated anymore due to a corrupt motherboard.
 <br/><br/>
 <img src="https://raw.githubusercontent.com/Patss2/hackintosh-msi-mpg-b550-gaming-plus/main/Screenshot.png" alt="Catalina" align="middle"> 
 <h4>My Hardware</h4>
